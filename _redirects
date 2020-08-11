@@ -1,6 +1,6 @@
 # Redirection to handle SEO from old docs.midtrans.com site to new structure
-/en/welcome/index.html 		/ 301
-/id/welcome/index.html 		/ 301
+/en/welcome/index.html 		https://docs.midtrans.com 301
+/id/welcome/index.html 		https://docs.midtrans.com 301
 /en/welcome/preparation.html 		/en/midtrans-account/overview 301
 /en/welcome/pluginlibrary.html 		/en/snap/with-plugins 301
 /en/welcome/partner_integ.html 		/en/snap/platform/overview 301
