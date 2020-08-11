@@ -1,2 +1,2 @@
 # Handle redirect from unused beta-docs domain to main docs domain.
-/*    https://docs.midtrans.com/$1   301
+/*    https://docs.midtrans.com/:splat  301
